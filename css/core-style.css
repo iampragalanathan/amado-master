@@ -1400,45 +1400,4 @@ img {
 /*# sourceMappingURL=core-style.css.map */
 
 
-/* Auth pages */
-.auth-container {
-  max-width: 400px;
-  margin: 5rem auto;
-  padding: 2rem;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  background: #fff;
-  text-align: center;
-}
 
-.auth-container h2 {
-  margin-bottom: 1rem;
-}
-
-.auth-container input {
-  width: 100%;
-  padding: 0.8rem;
-  margin: 0.5rem 0;
-  border-radius: 8px;
-  border: 1px solid #ccc;
-}
-
-.auth-container button {
-  width: 100%;
-  padding: 0.8rem;
-  margin-top: 1rem;
-  border: none;
-  border-radius: 8px;
-  background: var(--first-color, #4CAF50);
-  color: #fff;
-  font-weight: bold;
-  cursor: pointer;
-}
-
-.auth-container button:hover {
-  opacity: 0.9;
-}
-
-.auth-container p {
-  margin-top: 1rem;
-}
